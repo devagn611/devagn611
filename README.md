@@ -9,8 +9,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devagn611&repo=STUDENT_MANAGMENT_SYSTEM)](https://github.com/devagn611/STUDENT_MANAGMENT_SYSTEM)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devagn611&repo=YoutubePlayListAPI)]
-(https://github.com/devagn611/YoutubePlayListAPI)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devagn611&repo=YoutubePlayListAPI)](https://github.com/devagn611/YoutubePlayListAPI)
 
 <!---
 devagn611/devagn611 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
