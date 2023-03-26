@@ -1,5 +1,5 @@
 # 💫 About Me:
-i'm currently working on java, javascript and python.
+i'm currently working on Java, Javascript and Python.
 
 
 ## 🌐 Socials:
