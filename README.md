@@ -1,11 +1,26 @@
+<h1 align="center">Hi 👋, I'm Maniya Devagn</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
+<!-- 
+- Check This Live Projects: <br>
+    [Box Shadow Generator](https://devagn611.github.io/Project_UI/box_shadow_ui/) <br>
+    [Toss Coin](https://devagn611.github.io/Project_UI/CoinFlip/TossCoin/) <br>
+    [Portfolio](https://devagn611.github.io/Project_UI/Portfolio_dev/)
 
-<!-- # 💫 About Me:
-i'm currently working on Java, Javascript and Python. -->
+-->
 
-<h2 align="left">Hi 👋! My name is Maniya Devagn and I'm a Student from India.</h2>
-<div align="center">
-<img src="https://github-stats-alpha.vercel.app/api?username=devagn611&cc=000&tc=fff&ic=fff&bc=000" height="150" alt="stats graph"  />
-</div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=devagn611&label=Profile%20views&color=0e75b6&style=flat" alt="devagn611" /> </p>
+
+- 🔭 I’m currently working on [UI Projects](https://github.com/devagn611/Project_UI)
+
+- 🌱 I’m currently learning **NodeJS, React, BootStrap**
+
+- 👨‍💻 All of my projects are available at [Devagn-Portfolio](https://devagn-portfolio.onrender.com/)
+
+- 💬 Ask me about **FullStack Web Development, DSA, C++**
+
+- 📫 How to reach me **devagnmaniya611@gmail.com**
+
+- ⚡ Fun fact **I think I am Fun Developer😀**
 
 ###
 
