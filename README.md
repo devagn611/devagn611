@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **devagnmaniya611@gmail.com**
 
-- ⚡ Fun fact **I think I am Fun Developer😀**
+- ⚡ Fun fact **I am Fun Developer😀**
 
 ###
 
