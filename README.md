@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [UI Projects](https://github.com/devagn611/Project_UI)
 
-- 🌱 I’m currently learning **NodeJS, React, BootStrap**
+- 🌱 I’m currently learning **NodeJS, React**
 
 - 👨‍💻 All of my projects are available at [Devagn-Portfolio](https://devagn-portfolio.onrender.com/)
 
