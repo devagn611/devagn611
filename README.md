@@ -2,19 +2,6 @@
 <h3 align="center">A passionate Frontend Developer from India</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devagn611&label=Profile%20views&color=0e75b6&style=flat" alt="devagn611" /> </p>
-
-- 🔭 I’m currently working on [UI Projects](https://github.com/devagn611/Project_UI)
-
-- 🌱 I’m currently learning **NodeJS, React**
-
-- 👨‍💻 All of my projects are available at [Devagn-Portfolio](https://devagn-portfolio.onrender.com/)
-
-- 💬 Ask me about **FullStack Web Development, DSA, C++**
-
-- 📫 How to reach me **devagnmaniya611@gmail.com**
-
-- ⚡ Fun fact **I am Fun Developer😀**
 
 ## My Github stats
 
