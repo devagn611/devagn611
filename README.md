@@ -1,7 +1,6 @@
 
 # My Github stats
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=devagn611&theme=dark&background=000000)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devagn611\&layout=compact&theme=dark#gh-dark-mode-only)
 
 <p align="left">
