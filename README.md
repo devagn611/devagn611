@@ -7,9 +7,6 @@
  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devagn611&theme=dark"/>
 </p>
 
-![Devagn's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=devagn611&show_icons=true&theme=dark#gh-dark-mode-only)
-
-
 
 
 # 🌐 Socials:
