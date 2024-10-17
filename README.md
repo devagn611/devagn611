@@ -1,17 +1,14 @@
 
 # My Github stats
+<div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devagn611\&layout=compact&theme=dark#gh-dark-mode-only)
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devagn611&theme=apprentice) 
+<div align="center" style="display: flex; justify-content: center; gap: 10px;">
+  <img width="45%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devagn611&theme=apprentice" />
+  <img width="45%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=devagn611&theme=apprentice" />
+</div>
 
-<p align="left">
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devagn611&theme=dark"/>
-</p>
+<!-- end part -->
 
-
-
-# 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/devagn_maniya) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/devagn-maniya-b47aba260)
-[![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/devagn_maniya/)
-[![FreecodeCamp](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=black)](https://freecodecamp.com/devagn_maniya)
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=devagn611&theme=apprentice)
+</div>
